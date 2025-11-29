@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rebecca, an aspiring IT professional</h1>
 
 <h2>Python Practice:</h2>
--<!--need to make link so can click on title and go to readme for it __>
+-<!--need to make link so can click on title and go to readme for it -->
 
 <h2>Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
