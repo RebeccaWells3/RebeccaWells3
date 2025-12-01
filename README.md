@@ -2,6 +2,7 @@
 
 <h2>Python Practice:</h2>
 -<b>Below are some Python projects I have done for practice and fun. They were either done in Jupyter Notebook or other IDEs and usually saved in Jupyter Notebook.</b>
+  -[50 States and Capitals Quiz](50StatesandCapsQuiz.ipynb)
 
 <h2>Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
