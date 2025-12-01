@@ -1,4 +1,5 @@
-<h1>Hi, I'm Rebecca, an aspiring IT professional with a strong interest in data engineering</h1>
+<h1>About Me</h1>
+<b>Hi, I'm Rebecca, an aspiring IT professional with a strong interest in data engineering!</b>
 
 <h2><ins>Skills:</ins></h2>
 <ul>
