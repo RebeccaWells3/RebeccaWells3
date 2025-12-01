@@ -8,9 +8,9 @@
 </ul>
 
 <h2><ins>Certifications:</ins></h2>
-<ol>
+<ul>
   <li>AWS Cloud Practitioner</li>
-</ol>
+</ul>
 
 
 
