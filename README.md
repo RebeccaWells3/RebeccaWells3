@@ -1,7 +1,7 @@
 <h1>Hi, I'm Rebecca, an aspiring IT professional</h1>
 
 <h2>Python Practice:</h2>
--<b>need to make link so can click on title and go to readme for it</b>
+-<b>Below are some Python projects I have done for practice and fun. They were either done in Jupyter Notebook or other IDEs and usually saved in Jupyter Notebook.</b>
 
 <h2>Information Technology Projects:</h2>
 - <b>osTicket (Help Desk Ticketing System)</b>
