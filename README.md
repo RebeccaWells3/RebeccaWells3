@@ -7,5 +7,10 @@
   <li>SQL</li>
 </ul>
 
+<h2><ins>Certifications:</ins></h2>
+<ol>
+  <li>AWS Cloud Practitioner</li>
+</ol>
+
 
 
