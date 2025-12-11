@@ -5,6 +5,7 @@
 <ul>
   <li>Python</li>
   <li>SQL</li>
+  <li>HTML</li>
 </ul>
 
 <h2><ins>Certifications:</ins></h2>
